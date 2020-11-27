@@ -1,0 +1,78 @@
+ nav{
+     text-align: right;
+ }
+ .link{
+    color: rgba(0, 0, 0, 0.699);
+    text-decoration: none;
+    font-size: 12px;
+    display: inline-block;
+    line-height: 24px;
+    font-family: arial,sans-serif;
+    padding-right: 12px;
+    padding-top: 10px;
+}
+
+.link:hover{
+    color:rgba(0, 0, 0, 0.836)
+}
+body{
+    text-align: center;
+    height: fit-content;
+}
+.img{
+    padding-top: 90px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.img #logo{
+    display: inline-block;
+    height: 92px;
+}
+#bn_holder{
+    text-align: center;
+}
+
+.bn{
+    color: #5F6368;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    border-radius: 4px;
+    padding: 7px;
+    text-align: center;
+    padding-left: 16px;
+    padding-right:16px ; 
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin-left: 4px;
+    margin-right: 4px;
+    height: 36px;
+    min-width: 54px;
+}
+input.bn:hover{
+    color: rgb(2, 2, 2);
+    background-color: rgb(230, 230, 230);
+    border: 1px solid silver;
+}
+.txtd{
+    text-align: center;
+    margin: 5px auto;
+    width: 460px;
+    height:39px;
+    border-radius: 30px;
+    border: 1px solid #dcdcdc;
+  }
+  .txtd #txt {
+    
+    border: none;
+    width: 387px;
+    height:34px ;
+    font-size: 16px;
+    font-family: arial, sans-serif;
+    outline: none;
+  }
+  .txtd:hover {
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+  }
+ 
